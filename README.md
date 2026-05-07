@@ -3,8 +3,11 @@ Anime & LARP includes Presets, Textures, & Stickers.
 
 #### Previews
 
-- [Anime Skins](https://imgur.com/aYYV4MV)
-- [LARP Skins](https://imgur.com/xAYWHzm)
+- [Anime Skins (Gif)](https://imgur.com/aYYV4MV)
+- [LARP Skins (Gif)](https://imgur.com/xAYWHzm)
+
+![](https://i.imgur.com/kLb3NoX.png)
+
 
 Maybe a glock fade included somewhere..
 > 📝 **Note:** Weapon presets are tailor made for specific weapon families.
