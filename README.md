@@ -11,7 +11,7 @@ Maybe a glock fade included somewhere..
 
 **(E.g M4 camo preset = M4, ADAR, HK 416, SR-25, TX-15, etc.)**
 
-❗Not responsible if camo doesn't look good on skins outside of weapon camo name
+❗Not responsible if camo doesn't look good outside of weapon camo name
 
 _________________
 
